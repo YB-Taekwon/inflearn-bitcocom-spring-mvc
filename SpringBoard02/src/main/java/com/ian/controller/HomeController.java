@@ -1,4 +1,4 @@
-package com.ian.springboard;
+package com.ian.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
